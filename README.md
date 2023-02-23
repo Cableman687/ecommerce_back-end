@@ -1,19 +1,19 @@
 # Object-Relational Mappying (ORM): E-Commerce Back End System
 
-![alt text](assets/images/screenshot.png)
+![alt text](./assets/screenshot.png)
 
 ## Description
 
 - The motivation to complete this challenge was to test my own skills gained in the most recent week of the coding bootcamp, including but not limited to: ORM, Async Await, RESTful Routes, Validation, One-to-One and One-to-Many.
 - This project was built as a testing ground for my own retention of the aforementioned skills.
 - This app allows a bussiness or employer run an effective back-end web server to manage their inventories through user requests.
-- What did you learn?
+- Through building this application, I learnt that there are many programming skills outside of what we learn throughout the week, and that research and collaboration is critical in order to achieve the best outcome for any given project.
 
 ## Installation
 
 This can be installed to your computer by simply cloning this repository using the provided keys and URLs.\
 
-Also:\
+Also:
 
 - Install Node.js
 Please follow the instructions to install Node.js on your machine from the link below:\
@@ -29,6 +29,7 @@ https://insomnia.rest/download
 
 ## Usage
 
+Demo Video:
 https://drive.google.com/file/d/1630ktWLyRWHiLweKLTiKNFVUqhq2FNJk/view
 
 1) Navigate to the database (db) folder in the root directory, sign into your mysql using 'mysql -u root -p' and entering your password, and run command 'SOURCE schema.sql'
